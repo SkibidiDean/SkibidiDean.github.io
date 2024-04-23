@@ -1,2 +1,2 @@
 # SkibidiDean.github.io
-plu
+HELLO THIS IS DEAN'S WEBSITE
